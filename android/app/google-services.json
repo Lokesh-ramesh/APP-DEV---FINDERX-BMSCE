@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539511023898",
+    "project_id": "finderr-x-bmsce",
+    "storage_bucket": "finderr-x-bmsce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539511023898:android:a272192a22750262d7e4a3",
+        "android_client_info": {
+          "package_name": "com.example.finderr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539511023898-tvq68l2eu77kgrdrtch4pf25dmfff1ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Lf7v2ap8YrwYx_Qlnlp-v3rup2l8ENo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539511023898-tvq68l2eu77kgrdrtch4pf25dmfff1ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
