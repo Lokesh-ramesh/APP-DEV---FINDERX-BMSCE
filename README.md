@@ -1,16 +1,17 @@
-# Bubble Chat Application ❄️
+# Finder X BMSCE 📱
 
-Welcome to the Bubble Chat Application repository! This application allows patients to book doctors and engage in real-time chat conversations to express their queries and seek medical advice.
+## Problem Statement
+
+- Finding a project in an interested domain to work on, has become a tedious process for students and project seekers.
+- Building a capable and innovative team for an ideated project is also a mind-numbing task for researchers, faculties and companies.
+- FinderX is a minimal, user-friendly solution that bridges the gap between these two parties by offering them a platform for seeking and communicating with each other
 
 ## Features
 
-- Browse and search for doctors based on specialization, availability, and location.
-- Book appointments with doctors at preferred time slots.
-- Real-time chat functionality to communicate with doctors.
-- Secure and private messaging between patients and doctors.
-- Push notifications for appointment reminders and new messages.
-- Personalized patient profiles to manage appointments and chat history.
-- Integration with Firebase Authentication for user authentication and data security.
+- Students can update their profile in which they can mention their domain of interest.
+- Students can view the teachers/professors profile and connect with them.
+- The teacher/professor can either personally message or create a group where he/she can interact with all students.
+- There is a filter option present where we can filter the person based on their field of interest.  
 
 ## Technologies Used
 
@@ -45,7 +46,8 @@ Welcome to the Bubble Chat Application repository! This application allows patie
 </div>
 
 ### Firebase Database
+<br>
 <div align="center">
-    <img src="/screenshots/db1.jpg" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
-   <img src="/screenshots/db2.jpg" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/db3.png" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
+   <img src="/screenshots/db4.png" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
 </div>
