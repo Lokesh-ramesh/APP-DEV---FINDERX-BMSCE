@@ -1,16 +1,51 @@
-# finderr
+# Bubble Chat Application ❄️
 
-A new Flutter project.
+Welcome to the Bubble Chat Application repository! This application allows patients to book doctors and engage in real-time chat conversations to express their queries and seek medical advice.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse and search for doctors based on specialization, availability, and location.
+- Book appointments with doctors at preferred time slots.
+- Real-time chat functionality to communicate with doctors.
+- Secure and private messaging between patients and doctors.
+- Push notifications for appointment reminders and new messages.
+- Personalized patient profiles to manage appointments and chat history.
+- Integration with Firebase Authentication for user authentication and data security.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter : Cross-platform framework for building mobile applications.
+- Dart: Object-oriented programming language used in Flutter development.
+- Firebase: Backend-as-a-Service platform for authentication, real-time database, and push notifications.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## User Interface
+
+<div align="center">
+    <img src="/screenshots/ss1.jpg" alt="Image 1" width="300" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/ss2.jpg" alt="Image 2" width="300" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/ss3.jpg" alt="Image 3" width="300" style="display: inline-block;">
+</div>
+<br><br><br><br>
+<div align="center">
+    <img src="/screenshots/ss4.jpg" alt="Image 1" width="300" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/ss5.jpg" alt="Image 2" width="300" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/ss6.jpg" alt="Image 3" width="300" style="display: inline-block;">
+</div>
+<br><br><br><br>
+<div align="center">
+    <img src="/screenshots/ss8.jpg" alt="Image 1" width="300" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/ss10.jpg" alt="Image 2" width="300" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/ss11.jpg" alt="Image 3" width="300" style="display: inline-block;">
+</div>
+<br><br><br><br>
+<div align="center">
+    <img src="/screenshots/ss12.jpg" alt="Image 1" width="300" style="display: inline-block; margin-right: 20px;">
+    <img src="/screenshots/ss13.jpg" alt="Image 2" width="300" style="display: inline-block; margin-right: 20px;">
+ 
+</div>
+
+### Firebase Database
+<div align="center">
+    <img src="/screenshots/db1.jpg" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
+   <img src="/screenshots/db2.jpg" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
+</div>
